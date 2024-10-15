@@ -99,3 +99,4 @@ const sendOTPemail = asyncHandler(async ({ _id, email }, res) => {
 });
 
 export default sendOTPemail;
+// OTP verification logic
