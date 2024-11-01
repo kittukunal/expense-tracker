@@ -208,3 +208,4 @@ const Register = () => {
 };
 
 export default Register;
+// Register component UI logic

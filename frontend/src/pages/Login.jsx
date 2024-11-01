@@ -197,3 +197,4 @@ const Login = () => {
 };
 
 export default Login;
+// Login component UI logic
