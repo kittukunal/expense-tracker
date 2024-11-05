@@ -34,3 +34,4 @@ const expenseSchema = new Schema(
 const Expense = model("Expense", expenseSchema);
 
 export default Expense;
+// Expense schema definition
