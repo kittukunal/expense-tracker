@@ -74,3 +74,4 @@ const NavBar = () => {
 };
 
 export default NavBar;
+// Final visual polish and mobile tweaks
